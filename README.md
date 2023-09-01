@@ -22,8 +22,8 @@
 - Application Opens to Landing page of Note-Taker App, with link to notes page provided
 - Notes page presents two columns, the left containing existing messages, the right containing empty fields for new title and text
 - Once text is entered in the right column, save icon appears in the nav and when the icon is selected, note is saved to left column
-- when clicking on note in left column, it appears in right column 
-- when write is selected in the nav, an empty field is provided in the right column
+- When clicking on note in left column, it appears in right column 
+- When write is selected in the nav, an empty field is provided in the right column
 - Delete option is also provided
 
 ## Deployed Page URL
