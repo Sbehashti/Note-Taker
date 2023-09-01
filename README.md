@@ -1,5 +1,6 @@
 # Note-Taker
-Note Taker Application, Specifically building and connecting the back end to the front end using Express.JS. 
+### Note Taker Application, Specifically building and connecting the back end to the front end using Express.JS. 
+#### In this project I was tasked with developing the back-end of the Note-Taker Application and deploying it to Heroku. By using knowledge of Express.JS, I was able to attach back-end to front end to allow for the application to function properly.
 
 ## Table Of Contents
 1. [Acceptance Criteria](#acceptance-criteria)
@@ -24,15 +25,24 @@ Note Taker Application, Specifically building and connecting the back end to the
 - Once text is entered in the right column, save icon appears in the nav and when the icon is selected, note is saved to left column
 - when clicking on note in left column, it appears in right column 
 - when write is selected in the nav, an empty field is provided in the right column
+- Delete option is also provided
 
 ## Deployed Page URL
+https://sb-note-taker-5f0cdaf687d9.herokuapp.com/ 
 
 ## Deployed Page
+![sb-note-taker-5f0cdaf687d9 herokuapp com_](https://github.com/Sbehashti/Note-Taker/assets/135624229/12d15366-809d-45a8-b91c-e7b934e98fdf)
+![sb-note-taker-5f0cdaf687d9 herokuapp com_notes](https://github.com/Sbehashti/Note-Taker/assets/135624229/cca86500-1ed6-46a0-82c9-b40c016287a4)
 
 ## Walkthrough Video
 
 ## Credits
+- Back-End Code by Sier Behashti https://github.com/Sbehashti
+- Front-End Starter Code provided by UC Davis Bootcamp
 
 ### Technologies Used
-
+1. Visual Studio Code for writing of code
+2. Github for starter code and deployment
+3. Heroku for app deployment
+4. CLI including GIT, Heroku, Node.js, and Express.js
 
