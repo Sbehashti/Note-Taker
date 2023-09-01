@@ -7,8 +7,7 @@
 2. [Work Completed](#work-completed)
 3. [Deployed Page URL](#deployed-page-url)
 4. [Deployed Page](#deployed-page)
-5. [Walkthrough Video](#walkthrough-video)
-6. [Credits](#credits)
+5. [Credits](#credits)
 
 ## Acceptance Criteria 
 - GIVEN a note-taking application, WHEN I open the Note Taker, THEN I am presented with a landing page with a link to a notes page;
@@ -33,8 +32,6 @@ https://sb-note-taker-5f0cdaf687d9.herokuapp.com/
 ## Deployed Page
 ![sb-note-taker-5f0cdaf687d9 herokuapp com_](https://github.com/Sbehashti/Note-Taker/assets/135624229/12d15366-809d-45a8-b91c-e7b934e98fdf)
 ![sb-note-taker-5f0cdaf687d9 herokuapp com_notes](https://github.com/Sbehashti/Note-Taker/assets/135624229/cca86500-1ed6-46a0-82c9-b40c016287a4)
-
-## Walkthrough Video
 
 ## Credits
 - Back-End Code by Sier Behashti https://github.com/Sbehashti
